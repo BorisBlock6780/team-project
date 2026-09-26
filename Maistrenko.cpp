@@ -1,4 +1,4 @@
-#include "ivanov.h"
+#include "Maistrenko.h"
 #include <cmath>
 // Конечная скорость: v = v0 + a * t
 double finalSpeed(double v0, double a, double t) {
